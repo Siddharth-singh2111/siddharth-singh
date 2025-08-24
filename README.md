@@ -3,7 +3,7 @@
 
 # Hi, I'm Siddharth Singh 👋
 
-🚀 3rd-year B.Tech CSE student at IIIT Sri City (GPA: 8.51/10)  
+🚀 3rd-year B.Tech ECE student at IIIT Sri City (GPA: 8.51/10)  
 💻 Full Stack Developer | Web3 Enthusiast | Data Analytics Explorer  
 📍 Passionate about building sleek web apps, solving algorithmic problems, and experimenting with AI & Web3.
 
